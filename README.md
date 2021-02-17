@@ -36,5 +36,6 @@ Hence there were 18 metrics to be extracted. The metrics were computed for two c
 Case A: Manual mode
 Case B: Auto mode
 
+
 Expected Outcome of the Assignment:
 A python or matlab script that accepts two csv files: CGMData.csv and InsulinData.csv and runs the analysis procedure and outputs the metrics discussed in the metrics section in another csv file using the format described in Results.csv.
